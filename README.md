@@ -15,7 +15,6 @@ We fix things that cluster the local student from getting their brains together 
 - Instagram: Too many accounts you need to go to and sometimes you would miss news and its just a whole mess
 - Snapchat: Too many misinformation and unneccessary details spreading in the application. 
 - Twitter: There are many taboo topics and unneccessary information that isn't to educate nor to provide the well being of a person
-- Notepad: There isnt any updating factors that keep you up to date
-- Canvas: Grades are scary, sometimes people dont even look at it because of bugs that make them log out! 
-
+- Notepad: There isnt any updating factors that keep you up to date and its such a drag to even fill it in everyday!
+- Canvas: Grades are scary, sometimes people dont even look at it because of grades, and also bugs that makes them log out unexpectedly! 
 
