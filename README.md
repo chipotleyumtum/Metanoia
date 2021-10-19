@@ -10,4 +10,12 @@ Metanoia is Webster Grove's Open Sourced application that allows students, hack'
 - [x] Secure and Private 
 - [ ] Encrypted (? (hopefully to update as the application is ongoing))
 
+# Why Metanoia?
+We fix things that cluster the local student from getting their brains together in one Application. Here are the problems that are caused to one's organization.
+- Instagram: Too many accounts you need to go to and sometimes you would miss news and its just a whole mess
+- Snapchat: Too many misinformation and unneccessary details spreading in the application. 
+- Twitter: There are many taboo topics and unneccessary information that isn't to educate nor to provide the well being of a person
+- Notepad: There isnt any updating factors that keep you up to date
+- Canvas: Grades are scary, sometimes people dont even look at it because of bugs that make them log out! 
+
 
