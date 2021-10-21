@@ -19,3 +19,9 @@ We fix things that cluster the local student from getting their brains together 
 - Notepad: There isnt any updating factors that keep you up to date and its such a drag to even fill it in everyday!
 - Canvas: Grades are scary, sometimes people dont even look at it because of grades, and also bugs that makes them log out unexpectedly! 
 
+# What will Metanoia look like?
+This is the pseudo-design of the home page:
+![dot2](https://user-images.githubusercontent.com/53746661/138295487-5f3a26b1-213a-4277-9ec9-d4add16c1936.jpg)
+
+This is the pseudo-design of the profile page: 
+![dot](https://user-images.githubusercontent.com/53746661/138295493-71133565-f014-4102-8419-9aa83762a512.jpg)
