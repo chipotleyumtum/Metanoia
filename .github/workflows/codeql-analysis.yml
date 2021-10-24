@@ -65,7 +65,6 @@ jobs:
     #- run: |
     #   make bootstrap
     #   make release
-
   - name: Setup Go environment
   uses: actions/setup-go@v2.1.4
   with: 1.17.2
