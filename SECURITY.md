@@ -1,23 +1,17 @@
 # Security Policy
 
-## Versions used
-
-npm: v8.1.0
-node.js: v16.13.0
-golang: v1.17.2 
-
+## Versions Supported
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| NPM 8.x.x   | :white_check_mark: |
+| Node.js 16.xx.x  | :white_check_mark: |
+| Golang 1.17.x  |  :white_check_mark:|
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+- To report an vulnerability you need to go to the issue bar on the top left corner by <> Code and press the "SUBMIT ISSUE" button. 
+- To get an update on the issue, issued, it will take no more than a week for us to review your submission 
+- If your issue is accepted, it will immediately take effect as soon as possible 
+- if your issue is declined, it means we wont need that issue resolved
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
