@@ -1,4 +1,4 @@
-# (Name) - Open Source Online text messenger?
+# Shoot - Open Source Online text messenger
 Metanoia is Webster Grove's Open Sourced application that allows students, hack'ers, and literally anyone else to contribute to the making of the application that makes it easier for Webster Groves students to go on with their day to day activity at the local school.
 
 - [x] Decentralized 
