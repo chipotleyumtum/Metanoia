@@ -17,3 +17,10 @@ Metanoia is Webster Grove's Open Sourced application that allows students, hack'
 - [ ] Java
 - [x] Gun.js Decentralized Database
 
+# How to run
+
+```
+git clone <this-repo>
+npm install
+npm run dev
+```
