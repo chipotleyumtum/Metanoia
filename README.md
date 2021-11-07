@@ -25,6 +25,16 @@ git clone <this-repo>
 npm install
 npm run dev
 ```
+------ 
+Issue solved: If does not work, drag file into desktop and do the following in terminal
+```
+cd desktop
+cd Shoot-main (this is the file's name)
+npm install
+npm i
+npm run dev
+```
+copy the local host and insert into web browser domain and wallah.
 
 
 
@@ -36,6 +46,5 @@ npm run dev
 
 
 
-~~~
-Inspiration from Fireship.io
-~~~
+
+Inspo @FS.io
