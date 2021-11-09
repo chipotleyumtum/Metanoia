@@ -12,6 +12,7 @@ Metanoia is Webster Grove's Open Sourced application that allows students, hack'
 - [x] Secure and Private 
 # in use :
 - [x] Javascript
+- [x] css
 - [ ] Python
 - [x] Svelte
 - [ ] C++
