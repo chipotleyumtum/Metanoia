@@ -1,7 +1,7 @@
 # Shoot - Open Sourced-Decentralized Online text messenger
 SHOOT is Webster Grove's Open Sourced application that allows students, hack'ers, and literally anyone else to contribute to the making of the application that makes it easier for Webster Groves students to go on with their day to day activity at the local school.
 
-
+Click [HERE](https://shoot.vercel.app/) to see the final product
 - [x] Decentralized 
   * The application will run on GUN's decentralized database
   
