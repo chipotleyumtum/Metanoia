@@ -20,6 +20,7 @@ Click [HERE](https://shoot.vercel.app/) to see the final product
 - [x] Gun.js Decentralized Database
 
 # How to run
+!!! Make sure to have Node.js installed! !!!
 
 ```
 git clone <this-repo>
