@@ -8,7 +8,7 @@
 </script>
 
 <header>
-<h1>Webster Grove ♻️</h1>
+<h1>Shoot!</h1>
   {#if $username}
     <div class="user-bio">
       
