@@ -48,4 +48,4 @@ copy the local host and insert into web browser domain and wallah.
 
 
 
-Inspired by Fireship.io Go check him out!
+Forked from Fireship.io Go check him out!
