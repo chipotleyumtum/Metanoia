@@ -5,7 +5,7 @@ html, body {
 }
 
 body {
-	color: #0ff;
+	color: rgb(162, 150, 9);
 	margin: 0;
 	box-sizing: border-box;
 	font-family: 'Orbitron', sans-serif;
@@ -14,7 +14,7 @@ body {
 }
 
 a {
-	color: #0ff;
+	color: rgb(201, 141, 13);
 	text-decoration: none;
 }
 
