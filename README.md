@@ -1,7 +1,7 @@
 # DingleChat - Open Sourced-Decentralized Online text messenger
-SHOOT is an Open Sourced application that allows students, hackers, and literally anyone else to contribute to the making of the application that makes it easier for students to go on with their day to day activity at the local school. Original, right? 
+DingleChat is an Open Sourced application that allows students, hackers, and literally anyone else to contribute to the making of the application that makes it easier for students to go on with their day to day activity at the local school. Original, right? 
 
-Click [HERE](https://shoot.vercel.app/) to see the final product
+Click [HERE](https://DingleChat.vercel.app/) to see the final product
 - [x] Decentralized 
   * The application will run on GUN's decentralized database
   
@@ -31,7 +31,7 @@ npm run dev
 Issue solved: If does not work, drag file into desktop and do the following in terminal
 ```
 cd desktop
-cd Shoot-main (this is the file's name)
+cd DingleChat-main (this is the file's name)
 npm install
 npm i
 npm run dev
